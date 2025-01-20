@@ -12,16 +12,24 @@ import { useState } from 'react';
 export default function Page() {
 
     const params = useParams();
-    const id = parseInt(params.id);
+    const { replace } = useRouter();
+
+    const idStr = Array.isArray(params.id) ? params.id[0] : params.id;
+
+    // Fallback to '1' if idStr is undefined
+    const id = parseInt(idStr || '1', 10) || 1;
+    
+    const [page, setPage] = useState(id);
+
     const len = tweets.length;
 
     if(id < 1 || id > len) {
-        return <h1>We've got posts from 1 to {len}. <br />Post No. {params.id} out of range.</h1>
+        return <h1>We have got posts from 1 to {len}. <br />Post No. {params.id} out of range.</h1>
     }
-    const [page, setPage] = useState(id);
+    
     const tweet = tweets[id-1];
     console.log(tweet)
-    const { replace } = useRouter();
+
 
     return (
         <>
@@ -49,7 +57,7 @@ export default function Page() {
                     </Paper>
                 </Grid>
 
-                <Pagination count={len} page={page} onChange={(e, n) => replace(`/${n}`)}  variant="outlined" color="primary"/>
+                <Pagination count={len} page={page} onChange={(e, n) => {setPage(n); replace(`/${n}`)}}  variant="outlined" color="primary"/>
 
                 {/* link stored in tweet.origin and tweet.paper, click btn to jump */}
                 <div style ={{ display: 'flex', gap: '10px'}}>

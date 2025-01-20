@@ -1,98 +1,142 @@
 [
-  { "id": 1, "text1": "Hello, world!", "text2": "Goodbye, world!" },
+  {
+    "id": 1,
+    "text1": "Hello, world!",
+    "text2": "Goodbye, world!",
+    "origin": "x.com",
+    "paper": "nature.com"
+  },
   {
     "id": 2,
     "text1": "Learning to code is fun.",
-    "text2": "Debugging is part of the process."
+    "text2": "Debugging is part of the process.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 3,
     "text1": "I love programming.",
-    "text2": "I love solving problems."
+    "text2": "I love solving problems.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 4,
     "text1": "JavaScript is versatile.",
-    "text2": "Python is great for data science."
+    "text2": "Python is great for data science.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 5,
     "text1": "HTML and CSS are the backbone of web development.",
-    "text2": "Responsive design is crucial."
+    "text2": "Responsive design is crucial.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 6,
     "text1": "Algorithms improve efficiency.",
-    "text2": "Data structures organize information."
+    "text2": "Data structures organize information.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 7,
     "text1": "Front-end is user-facing.",
-    "text2": "Back-end powers the functionality."
+    "text2": "Back-end powers the functionality.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 8,
     "text1": "APIs connect systems.",
-    "text2": "RESTful services are common."
+    "text2": "RESTful services are common.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 9,
     "text1": "Cloud computing is scalable.",
-    "text2": "Data security is essential."
+    "text2": "Data security is essential.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 10,
     "text1": "Debugging can be challenging.",
-    "text2": "The reward is worth it."
+    "text2": "The reward is worth it.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 11,
     "text1": "Version control tracks changes.",
-    "text2": "Git is widely used."
+    "text2": "Git is widely used.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 12,
     "text1": "Machine learning automates tasks.",
-    "text2": "AI is transforming industries."
+    "text2": "AI is transforming industries.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 13,
     "text1": "Databases store information.",
-    "text2": "SQL is a querying language."
+    "text2": "SQL is a querying language.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 14,
     "text1": "Networking connects devices.",
-    "text2": "The internet is a global network."
+    "text2": "The internet is a global network.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 15,
     "text1": "Mobile apps are everywhere.",
-    "text2": "Cross-platform development saves time."
+    "text2": "Cross-platform development saves time.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 16,
     "text1": "Debugging improves code quality.",
-    "text2": "Testing ensures reliability."
+    "text2": "Testing ensures reliability.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 17,
     "text1": "Open-source projects are collaborative.",
-    "text2": "Contributions make them better."
+    "text2": "Contributions make them better.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 18,
     "text1": "Compilers translate code.",
-    "text2": "Interpreters execute code line by line."
+    "text2": "Interpreters execute code line by line.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 19,
     "text1": "Frameworks simplify development.",
-    "text2": "Libraries add specific functionality."
+    "text2": "Libraries add specific functionality.",
+    "origin": "x.com",
+    "paper": "nature.com"
   },
   {
     "id": 20,
     "text1": "Continuous learning is key.",
-    "text2": "The tech industry evolves rapidly."
+    "text2": "The tech industry evolves rapidly.",
+    "origin": "x.com",
+    "paper": "nature.com"
   }
 ]
