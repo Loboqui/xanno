@@ -51,9 +51,17 @@ export default function Page() {
                         <Typography variant="h4" gutterBottom>
                             Tweet #{id} B
                         </Typography>
-                        <Typography variant="body1" gutterBottom>
+                        {
+                            // tweet.text2 has multiple lines, split by '\n', and map to <Typography> elements
+                            tweet.text2.split('\n').map((line, index) => (
+                                <Typography key={index} variant="body1" gutterBottom>
+                                    {line}
+                                </Typography>
+                            ))
+                        }
+                        {/* <Typography variant="body1" gutterBottom>
                             {tweet.text2}
-                        </Typography>
+                        </Typography> */}
                     </Paper>
                 </Grid>
 
