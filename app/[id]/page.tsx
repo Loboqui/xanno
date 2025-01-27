@@ -69,8 +69,8 @@ export default function Page() {
 
                 {/* link stored in tweet.origin and tweet.paper, click btn to jump */}
                 <div style ={{ display: 'flex', gap: '10px'}}>
-                <Button variant="outlined" onClick={() => window.open('https://' + tweet.origin, '_blank')}>Original Tweet</Button>
-                <Button variant="contained" onClick={() => window.open('https://' + tweet.paper, '_blank')}>Go to view Paper</Button>
+                <Button variant="outlined" onClick={() => window.open('' + tweet.origin, '_blank')}>Original Tweet</Button>
+                <Button variant="contained" onClick={() => window.open('' + tweet.paper, '_blank')}>Go to view Paper</Button>
                 </div>
                 
             </Grid>
