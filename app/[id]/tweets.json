@@ -1,142 +1,86 @@
 [
   {
     "id": 1,
-    "text1": "Hello, world!",
-    "text2": "Goodbye, world!",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Youths w/ clinical anxiety exhibit distinct brain activation states during socioemotional processing, spending more time in a state associated with high ventral attention and default mode network activation when viewing negative content. https://t.co/jyrPGZ3jsK @BarchDbarch https://t.co/T02oJUqj8K",
+    "text2": "New research on youth anxiety! 🧠 We identified 3 distinct brain activation states during socioemotional processing using fMRI in 620 youths (5-15yrs).  Higher generalized anxiety linked to more time in a \"default mode\" state during negative stimuli.  Implications for intervention!\n\n👉🏾**#YouthAnxiety**: 620 participants\n👉🏽**#fMRI**: 3 distinct brain states identified\n👉🏼**#DefaultModeNetwork**: Increased time in this state linked to higher anxiety\n👉🏻**#SocioemotionalProcessing**:  Study used movie stimuli\n👉🏾**#Intervention**: Implications for novel treatment approaches\n",
+    "origin": "https://x.com/JAMAPsych/status/1869427411688820953/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2827795?guestAccessKey=e3715a79-fbba-401e-9f4c-cc9f2c3d032d&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15562537171&utm_campaign=article_alert&linkId=689959100"
   },
   {
     "id": 2,
-    "text1": "Learning to code is fun.",
-    "text2": "Debugging is part of the process.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Most viewed in the last 7 days from @JAMAPsych: [this is a newline]Low expectations of escitalopram predicted better efficacy for psilocybin in treating major depressive disorder. [this is a newline]https://t.co/yFkvlXMOsH https://t.co/Lm6eKzbwAD",
+    "text2": "New research on treatment expectancies in #psilocybin vs #escitalopram trials for depression! 🤯  We analyzed pre-randomization expectancy data (0-100% improvement scale) from the Carhart-Harris et al. study, revealing crucial insights into the impact of expectations on outcomes.  Read our paper to learn more!  #ClinicalTrials 🧪 #DepressionResearch 🧠 #PsilocybinTherapy 🍄\n",
+    "origin": "https://x.com/JAMAPsych/status/1869412313310036196/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2828035?utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15544799947&utm_campaign=top_viewed&linkId=687965223"
   },
   {
     "id": 3,
-    "text1": "I love programming.",
-    "text2": "I love solving problems.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Most medical conditions are associated with an increased risk of suicide in a dose-response manner, with the risk being particularly elevated for individuals with prior mental disorders. https://t.co/cWp8BkdkCE https://t.co/GEepgmI5kg",
+    "text2": "New research on suicide risk!  We analyzed data from 6,635,857 individuals in Denmark (2000-2020) and found that most medical conditions significantly increased suicide risk.  A dose-response relationship was observed for those without prior mental disorders.  Read more: [link to paper]\n\n➡️#SuicideRisk 🏥  #MedicalConditions 📈 #Denmark 🇩🇰 #IRR1.7 (Gastrointestinal)\n",
+    "origin": "https://x.com/JAMAPsych/status/1868974429637636444/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2822967?guestAccessKey=f92d6457-e624-464d-b5f9-9ac1d1c1302f&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594191&utm_campaign=article_alert&linkId=684920691"
   },
   {
     "id": 4,
-    "text1": "JavaScript is versatile.",
-    "text2": "Python is great for data science.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "YAWNS NB RCT: YAWNS-1, a simple, scalable, direct-to-patient intervention, reduced benzodiazepine receptor agonist use and improved sleep outcomes. https://t.co/o39Y4azaOu https://t.co/oCmbceO9Xp",
+    "text2": "New study shows a simple, mailed intervention significantly reduced BZRA use in older adults!  YAWNS-1 led to a 46.6% reduction in BZRA use & improved sleep. Check out our RCT:\n\n🛌 **BZRA Reduction:** 46.6% with YAWNS-1!\n😴 **Sleep Improvement:** Significant improvements in sleep efficiency.\n📈 **CBTI Uptake:** YAWNS-1 showed superior CBTI technique uptake (3.1 vs 2.4).\n👤 **Direct-to-Patient:** Scalable & impactful intervention.\n🏥 **Older Adults:** Focus on improving insomnia care for the aging population.\n\n#Insomnia #SleepDisorders #BZRA #CBTI #RCT\n",
+    "origin": "https://x.com/JAMAPsych/status/1868612038919921751/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2823668?guestAccessKey=b7e8475e-bc9d-4e50-bfc5-caf94ec36b87&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594186&utm_campaign=article_alert&linkId=684891623"
   },
   {
     "id": 5,
-    "text1": "HTML and CSS are the backbone of web development.",
-    "text2": "Responsive design is crucial.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Viewpoint describes both the current barriers patients face when filling their prescriptions for buprenorphine at pharmacies and a list of proposed fixes requiring changes at the federal, state, insurance, and clinician level. https://t.co/G54Akf5AIi https://t.co/IS5AnAbJzF",
+    "text2": "New research in JAMA Psychiatry reveals significant barriers to accessing buprenorphine, a life-saving medication for opioid use disorder.  A West Virginia study found 34% of patients had trouble filling prescriptions in the past year!  This is impacting patient recovery & increasing overdose risk. Let's address these systemic issues.\n\n💊 #BuprenorphineAccess: 34% filling issues\n📈 #OpioidOverdose: 50% risk reduction with buprenorphine\n👨‍⚕️ #ClinicianWaiverEliminated:  Increased prescribers from 37,869 to 98,344 (2017-2020)\n🤔 #PharmacyBarriers:  Supplier caps, SORS reports, & insurance hurdles\n🗺️ #RuralAccess: Disparities amplified in rural communities\n\n\n[Link to the paper]\n",
+    "origin": "https://x.com/JAMAPsych/status/1868279858679177327/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2825151?guestAccessKey=bd0dd377-6591-4373-a745-d7d235432cc5&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594182&utm_campaign=article_alert&linkId=684885900"
   },
   {
     "id": 6,
-    "text1": "Algorithms improve efficiency.",
-    "text2": "Data structures organize information.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Veterans with PTSD and obesity had substantially higher likelihood of accelerated GrimAge, suggesting a synergistic effect between these 2 conditions. https://t.co/KXhAIQu3Nt https://t.co/3Ebr6h5tAd",
+    "text2": "PTSD & obesity accelerate epigenetic aging in US military veterans! 💥  Our study of 1135 veterans showed a 3-fold increased risk of accelerated GrimAge with both PTSD & obesity.  🤯  Learn more: [link to paper]\n\n#️⃣PTSD  (OR 1.92)\n#️⃣Obesity (OR 3.83 interaction with PTSD)\n#️⃣GrimAge (accelerated in 18.3% of veterans)\n#️⃣EpigeneticAging\n#️⃣Veterans (1135 participants)\n",
+    "origin": "https://x.com/JAMAPsych/status/1867917459619037616/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2825464?guestAccessKey=9ea777b6-0488-4ccb-ae3b-c3118a659afd&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594172&utm_campaign=article_alert&linkId=684882882"
   },
   {
     "id": 7,
-    "text1": "Front-end is user-facing.",
-    "text2": "Back-end powers the functionality.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Most viewed in the last 7 days from @JAMAPsych: [this is a newline] Low expectations of escitalopram predicted better efficacy for psilocybin in treating major depressive disorder. [this is a newline]https://t.co/cSM63nHIex https://t.co/IDy1lDLIHb",
+    "text2": "New research on treatment expectancies in #psilocybin vs #escitalopram trials for depression! 🤯  We analyzed baseline expectancy data (0-100% improvement scale) from the Carhart-Harris et al. study, revealing the significant impact of expectations on outcomes.  Check out our paper to learn more!  ➡️  #ClinicalTrials 🧪 #DepressionResearch 🧠 #PsilocybinTherapy ✨\n",
+    "origin": "https://x.com/JAMAPsych/status/1867902362171388348/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2828035?utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15544790925&utm_campaign=top_viewed&linkId=687963823"
   },
   {
     "id": 8,
-    "text1": "APIs connect systems.",
-    "text2": "RESTful services are common.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Private equity (PE) firms own nearly 30% of US opioid treatment programs, exceeding PE penetration in other sectors of health care. https://t.co/nR2IIfcYEX https://t.co/dhCYVjA3V8",
+    "text2": "NEW RESEARCH: Private Equity's impact on US Opioid Treatment Programs.  Our study reveals 29.1% of OTPs are PE-owned, with significant market concentration.  PE-owned OTPs were more prevalent in areas with higher White populations & lower incomes. Implications for access & quality of care are significant. #PEinHealthcare 🏥 #OpioidCrisis💊 #AddictionTreatment 💉 #HealthEquity ⚖️ #MarketConcentration 📈\n",
+    "origin": "https://x.com/JAMAPsych/status/1867615475724619829/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2827734?guestAccessKey=3184660c-d971-41e6-9f64-1386bbff1e80&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594252&utm_campaign=article_alert&linkId=684905356"
   },
   {
     "id": 9,
-    "text1": "Cloud computing is scalable.",
-    "text2": "Data security is essential.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Genome-wide association studies (GWAS) show limited correspondence between genetic risk factors and current psychiatric drug targets. https://t.co/gODg5okSzA https://t.co/NI4BDQocmG",
+    "text2": "New research links GWAS & pharmacological treatments for psychiatric disorders!  We investigated 4 disorders (ADHD, bipolar, schizophrenia, MDD) using 2232 DrugBank genes & 4 bioinformatic modalities.  Significant link found for bipolar disorder via PPI network (P-perm = 7 × 10⁻⁴).  Overall correspondence was low, suggesting distinct genetic architectures.\n\n🤔#PsychiatricDisorders #GWAS #Pharmacology #Bioinformatics #PPINetwork\n",
+    "origin": "https://x.com/JAMAPsych/status/1867253092871266715/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2827732?guestAccessKey=1da96af3-6482-4725-9627-ef9276e3ff50&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594250&utm_campaign=article_alert&linkId=684902318"
   },
   {
     "id": 10,
-    "text1": "Debugging can be challenging.",
-    "text2": "The reward is worth it.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "This RCT found no group-level evidence supporting neurofeedback as a stand-alone treatment for ADHD. https://t.co/46jaxL8Wq0 https://t.co/wbONeTDBte",
+    "text2": "New meta-analysis on neurofeedback for ADHD!  🤔  38 RCTs (n=2472) showed no significant benefit overall.  However, a small positive effect was seen with standard protocols (SMD 0.21) and improved processing speed (SMD 0.35).  Implications for future research are discussed.\n\n➡️ #ADHD 🧠 #Neurofeedback 📊 #MetaAnalysis 🔬 #SystematicReview 📚\n",
+    "origin": "https://x.com/JAMAPsych/status/1866890707069284376/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2827733?guestAccessKey=62f659e6-dbcd-4f4d-8631-8cbaf43ecdd3&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594247&utm_campaign=article_alert&linkId=684897446"
   },
   {
     "id": 11,
-    "text1": "Version control tracks changes.",
-    "text2": "Git is widely used.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Brief cognitive-behavioral therapy (BCBT-inpatient), when added to standard care, significantly reduced suicide attempts and psychiatric readmissions in suicidal patients. https://t.co/9VJh5tfPeT https://t.co/KZinPwGgaB",
+    "text2": "New RCT shows Brief Cognitive Behavioral Therapy (BCBT) for suicidal inpatients reduces post-discharge suicide attempts by 60%!  Read our findings: [link to paper]  #️⃣SuicidePrevention 🏥InpatientCare 🧠CBT  📉60%Reduction  🧑‍⚕️MentalHealth\n",
+    "origin": "https://x.com/JAMAPsych/status/1866437713873801467/photo/1",
+    "paper": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2823589?guestAccessKey=c870ab4d-61f6-4f5e-b787-17cb34636a6a&utm_source=twitter&utm_medium=social_jamapsyc&utm_term=15479594167&utm_campaign=article_alert&linkId=683936402"
   },
   {
     "id": 12,
-    "text1": "Machine learning automates tasks.",
-    "text2": "AI is transforming industries.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 13,
-    "text1": "Databases store information.",
-    "text2": "SQL is a querying language.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 14,
-    "text1": "Networking connects devices.",
-    "text2": "The internet is a global network.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 15,
-    "text1": "Mobile apps are everywhere.",
-    "text2": "Cross-platform development saves time.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 16,
-    "text1": "Debugging improves code quality.",
-    "text2": "Testing ensures reliability.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 17,
-    "text1": "Open-source projects are collaborative.",
-    "text2": "Contributions make them better.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 18,
-    "text1": "Compilers translate code.",
-    "text2": "Interpreters execute code line by line.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 19,
-    "text1": "Frameworks simplify development.",
-    "text2": "Libraries add specific functionality.",
-    "origin": "x.com",
-    "paper": "nature.com"
-  },
-  {
-    "id": 20,
-    "text1": "Continuous learning is key.",
-    "text2": "The tech industry evolves rapidly.",
-    "origin": "x.com",
-    "paper": "nature.com"
+    "text1": "Treatment expectancies significantly influenced the efficacy of escitalopram but not psilocybin in treating depression. https://t.co/kb8OsJvtSH [this is a newline]#ACNP2024 @ethan_dutcher https://t.co/8hnX19YUKE",
+    "text2": "Please provide the title and abstract of the paper and the original tweet.  I need that information to modify the tweet as requested.\n",
+    "origin": "https://x.com/JAMAPsych/status/1866276649878061557/photo/1",
+    "paper": null
   }
 ]
